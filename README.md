@@ -43,6 +43,14 @@ Visualizations like bar charts, pie charts, and trend analysis
 
 📊 Dashboard Preview
 <img width="1440" height="812" alt="Screenshot 2026-04-01 114146" src="https://github.com/user-attachments/assets/88dfbd92-21da-426f-b3e0-fe8c15cbac2e" />
+<img width="1438" height="811" alt="Screenshot 2026-04-01 114234" src="https://github.com/user-attachments/assets/7e0d6c6f-3b7d-4420-b66b-77eed3f0166c" />
+<img width="1439" height="810" alt="Screenshot 2026-04-01 114302" src="https://github.com/user-attachments/assets/870213a5-1f37-4a60-aed0-7a127fd1dcf3" />
+<img width="1442" height="811" alt="Screenshot 2026-04-01 114330" src="https://github.com/user-attachments/assets/5d6b53ab-17dd-4138-a486-5baeb7672018" />
+<img width="1436" height="805" alt="Screenshot 2026-04-01 114358" src="https://github.com/user-attachments/assets/0dc006d7-e489-4638-8b99-c4d6792ac7fa" />
+
+
+
+
 
 
 🚀 How to Use
