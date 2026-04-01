@@ -42,8 +42,8 @@ Multi-page dashboard (Overview, Loan Analysis, Deposit Analysis, Summary)
 Visualizations like bar charts, pie charts, and trend analysis
 
 📊 Dashboard Preview
+<img width="1440" height="812" alt="Screenshot 2026-04-01 114146" src="https://github.com/user-attachments/assets/88dfbd92-21da-426f-b3e0-fe8c15cbac2e" />
 
-(Add screenshots here from your project)
 
 🚀 How to Use
 1️⃣ Clone Repository
